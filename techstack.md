@@ -228,7 +228,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [hicmtrex/Tailwind-Recipes](https://github.com/hicmtrex/Tailwind-Recipes)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|328<br/>Tools used|12/21/23 <br/>Report generated|
+|339<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -1416,9 +1416,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (188)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (199)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (188)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (199)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -1457,12 +1457,15 @@ Full tech stack [here](/techstack.md)
 |[bigi](https://www.npmjs.com/bigi)|N/A|02/04/22|Firstname Lastname |Other|N/A|
 |[bili](https://www.npmjs.com/bili)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[bl](https://www.npmjs.com/bl)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
+|[brace](https://www.npmjs.com/brace)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[brace-expansion](https://www.npmjs.com/brace-expansion)|v1.1.11|02/04/22|Firstname Lastname |MIT|N/A|
+|[browserslist](https://www.npmjs.com/browserslist)|v4.12.0|02/04/22|Firstname Lastname |MIT|[CVE-2021-23364](https://github.com/advisories/GHSA-w8qv-6jwh-64r5) (Moderate)|
 |[buble](https://www.npmjs.com/buble)|v0.19.8|02/04/22|Firstname Lastname |MIT|N/A|
 |[bytes](https://www.npmjs.com/bytes)|v3.1.0|02/04/22|Firstname Lastname |MIT|N/A|
 |[cac](https://www.npmjs.com/cac)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[camelcase](https://www.npmjs.com/camelcase)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[caniuse-lite](https://www.npmjs.com/caniuse-lite)|v1.0.30001062|02/04/22|Firstname Lastname |CC-BY-4.0|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|02/04/22|Firstname Lastname |MIT|N/A|
 |[clean-css](https://www.npmjs.com/clean-css)|v4.1.9|02/04/22|Firstname Lastname |MIT|[](https://github.com/advisories/GHSA-wxhq-pm8v-cw75) (Low)|
 |[cli](https://www.npmjs.com/cli)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[clone](https://www.npmjs.com/clone)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
@@ -1476,6 +1479,7 @@ Full tech stack [here](/techstack.md)
 |[commander](https://www.npmjs.com/commander)|v5.1.0|02/04/22|Firstname Lastname |MIT|N/A|
 |[conf](https://www.npmjs.com/conf)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[config](https://www.npmjs.com/config)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
+|[copy](https://www.npmjs.com/copy)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[covert](https://www.npmjs.com/covert)|v1.0.0|02/04/22|Firstname Lastname |MIT|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v5.0.5|02/04/22|Firstname Lastname |MIT|N/A|
 |[css](https://www.npmjs.com/css)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
@@ -1499,6 +1503,7 @@ Full tech stack [here](/techstack.md)
 |[express](https://www.npmjs.com/express)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[extend](https://www.npmjs.com/extend)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[find-up](https://www.npmjs.com/find-up)|v2.1.0|02/04/22|Firstname Lastname |MIT|N/A|
+|[flow-bin](https://www.npmjs.com/flow-bin)|v0.68.0|02/04/22|Firstname Lastname |MIT|N/A|
 |[fresh](https://www.npmjs.com/fresh)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[fs](https://www.npmjs.com/fs)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[fs-extra](https://www.npmjs.com/fs-extra)|v8.1.0|02/04/22|Firstname Lastname |MIT|N/A|
@@ -1511,6 +1516,7 @@ Full tech stack [here](/techstack.md)
 |[he](https://www.npmjs.com/he)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[http](https://www.npmjs.com/http)|N/A|02/04/22|Firstname Lastname |BSD-2-Clause|N/A|
 |[https](https://www.npmjs.com/https)|N/A|02/04/22|Firstname Lastname |ISC|N/A|
+|[husky](https://www.npmjs.com/husky)|v1.0.0|02/04/22|Firstname Lastname |MIT|N/A|
 |[i](https://www.npmjs.com/i)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[ignore](https://www.npmjs.com/ignore)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[immer](https://www.npmjs.com/immer)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
@@ -1522,10 +1528,12 @@ Full tech stack [here](/techstack.md)
 |[is](https://www.npmjs.com/is)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[is-ci](https://www.npmjs.com/is-ci)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[jison](https://www.npmjs.com/jison)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
+|[jscs](https://www.npmjs.com/jscs)|v2.1.1|02/04/22|Firstname Lastname |MIT|N/A|
 |[jshint-stylish](https://www.npmjs.com/jshint-stylish)|v2.0.1|02/04/22|Firstname Lastname |MIT|N/A|
 |[jsonfile](https://www.npmjs.com/jsonfile)|v4.0.0|02/04/22|Firstname Lastname |MIT|N/A|
 |[klaw](https://www.npmjs.com/klaw)|v2.1.1|02/04/22|Firstname Lastname |MIT|N/A|
 |[lab](https://www.npmjs.com/lab)|N/A|02/04/22|Firstname Lastname |BSD-3-Clause|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v7.3.0|02/04/22|Firstname Lastname |MIT|N/A|
 |[log](https://www.npmjs.com/log)|N/A|02/04/22|Firstname Lastname |ISC|N/A|
 |[merge](https://www.npmjs.com/merge)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[methods](https://www.npmjs.com/methods)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
@@ -1574,6 +1582,7 @@ Full tech stack [here](/techstack.md)
 |[resolve](https://www.npmjs.com/resolve)|v1.17.0|02/04/22|Firstname Lastname |MIT|N/A|
 |[resolve-from](https://www.npmjs.com/resolve-from)|v4.0.0|02/04/22|Firstname Lastname |MIT|N/A|
 |[retry](https://www.npmjs.com/retry)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
+|[rework](https://www.npmjs.com/rework)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[rimraf](https://www.npmjs.com/rimraf)|v2.2.8|02/04/22|Firstname Lastname |ISC|N/A|
 |[safe-publish-latest](https://www.npmjs.com/safe-publish-latest)|v1.1.4|02/04/22|Firstname Lastname |MIT|N/A|
 |[semver](https://www.npmjs.com/semver)|v5.3.0|02/04/22|Firstname Lastname |ISC|[CVE-2022-25883](https://github.com/advisories/GHSA-c2qf-rxjj-qqgw) (Moderate)|
@@ -1590,6 +1599,7 @@ Full tech stack [here](/techstack.md)
 |[tailwindcss](https://www.npmjs.com/tailwindcss)|v1.4.6|02/04/22|Firstname Lastname |MIT|N/A|
 |[tap](https://www.npmjs.com/tap)|v10.7.3|02/04/22|Firstname Lastname |ISC|N/A|
 |[tap-spec](https://www.npmjs.com/tap-spec)|v5.0.0|02/04/22|Firstname Lastname |MIT|N/A|
+|[tape](https://www.npmjs.com/tape)|v4.11.0|02/04/22|Firstname Lastname |MIT|N/A|
 |[tar](https://www.npmjs.com/tar)|N/A|02/04/22|Firstname Lastname |ISC|N/A|
 |[temp](https://www.npmjs.com/temp)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[tempfile](https://www.npmjs.com/tempfile)|v1.1.1|02/04/22|Firstname Lastname |MIT|N/A|
@@ -1608,6 +1618,7 @@ Full tech stack [here](/techstack.md)
 |[warning](https://www.npmjs.com/warning)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
 |[watch](https://www.npmjs.com/watch)|N/A|02/04/22|Firstname Lastname |Apache-2.0|N/A|
 |[write](https://www.npmjs.com/write)|N/A|02/04/22|Firstname Lastname |MIT|N/A|
+|[xo](https://www.npmjs.com/xo)|v0.20.0|02/04/22|Firstname Lastname |MIT|N/A|
 |[xyz](https://www.npmjs.com/xyz)|N/A|02/04/22|Firstname Lastname |WTFPL|N/A|
 |[yo](https://www.npmjs.com/yo)|N/A|02/04/22|Firstname Lastname |BSD-2-Clause|N/A|
 
