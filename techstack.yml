@@ -2,11 +2,11 @@ repo_name: hicmtrex/Tailwind-Recipes
 report_id: 065df9206449d37a33826eb6c6090916
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T15:40:24+00:00'
+timestamp: '2024-01-05T08:19:10+00:00'
 requested_by: invalid-email-address
 provider: github
 branch: main
-detected_tools_count: 328
+detected_tools_count: 339
 tools:
 - name: Bel
   description: A new dialect of Lisp, by Paul Graham
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/11408/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/ansi-styles/package.json
   detection_source: node_modules/ansi-styles/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -27,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -38,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes
   detection_source: Repo Metadata
 - name: CoffeeScript
   description: A little language that compiles into JavaScript
@@ -61,6 +64,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3117/d-5.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -73,6 +77,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/cssesc/package.json
   detection_source: node_modules/cssesc/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -84,6 +89,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/postcss-functions/node_modules/postcss-value-parser/package.json
   detection_source: node_modules/postcss-functions/node_modules/postcss-value-parser/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -96,6 +102,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6490/2OjlqE5m.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/acorn-node/package.json
   detection_source: node_modules/acorn-node/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -108,6 +115,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/5985/qbJoNuap.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/acorn-walk/package.json
   detection_source: node_modules/acorn-walk/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -119,6 +127,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2538/kEpgHiC9.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/caniuse-lite/package.json
   detection_source: node_modules/caniuse-lite/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -130,6 +139,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2880/1024px-JSON_vector_logo.svg.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/commander/package.json
   detection_source: node_modules/commander/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -142,6 +152,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/5578/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/is-arrayish/package.json
   detection_source: node_modules/is-arrayish/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -154,6 +165,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/acorn-node/package.json
   detection_source: node_modules/acorn-node/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -166,6 +178,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -176,6 +189,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/tailwindcss/package.json
   detection_source: node_modules/tailwindcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -188,6 +202,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/resolve/test/resolver/invalid_main/package.json
   detection_source: node_modules/resolve/test/resolver/invalid_main/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -200,6 +215,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/resolve/package.json
   detection_source: node_modules/resolve/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -227,6 +243,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/postcss-nested/package.json
   detection_source: node_modules/postcss-nested/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -238,6 +255,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/autoprefixer/package.json
   detection_source: node_modules/autoprefixer/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -251,6 +269,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/resolve/test/resolver/multirepo/package.json
   detection_source: node_modules/resolve/test/resolver/multirepo/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -263,6 +282,7 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/uniq/package.json
   detection_source: node_modules/uniq/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -275,6 +295,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/4996/9P0MlumU_400x400.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -287,6 +308,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Desktop Development
   image_url: https://img.stackshare.io/service/2946/default_18a71b65e69d7aef5f218ae07f64eb6e1594c444.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/browserslist/package.json
   detection_source: node_modules/browserslist/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -299,6 +321,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Desktop Development
   image_url: https://img.stackshare.io/service/6421/12810740.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/acorn-node/package.json
   detection_source: node_modules/acorn-node/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -310,6 +333,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/5795/default_683a3de22a6983c41f27b04348f4c7380c5e3c21.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/acorn-node/package.json
   detection_source: node_modules/acorn-node/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -323,6 +347,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/escape-string-regexp/package.json
   detection_source: node_modules/escape-string-regexp/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -335,6 +360,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -347,6 +373,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/7697/28016430.jpeg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -358,6 +385,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/balanced-match/package.json
   detection_source: node_modules/balanced-match/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -370,6 +398,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -381,6 +410,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/6361/default_8c8faac34fdcb5b696503f5166b5232ad0adcf6e.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/normalize.css/package.json
   detection_source: node_modules/normalize.css/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -393,6 +423,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/9702/omi-logo.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/browserslist/package.json
   detection_source: node_modules/browserslist/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -405,6 +436,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -416,6 +448,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/3597/o_bigger_400x400.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/is-arrayish/package.json
   detection_source: node_modules/is-arrayish/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -428,6 +461,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/postcss-js/package.json
   detection_source: node_modules/postcss-js/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -440,6 +474,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/postcss-nested/package.json
   detection_source: node_modules/postcss-nested/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -452,6 +487,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/purgecss/package.json
   detection_source: node_modules/purgecss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -463,6 +499,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Language Extensions
   image_url: https://img.stackshare.io/service/4709/Xpand_Marke_32x32_400x400.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/acorn-node/package.json
   detection_source: node_modules/acorn-node/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -489,6 +526,7 @@ tools:
   category: Data Stores
   sub_category: Big Data as a Service
   image_url: https://img.stackshare.io/service/21043/default_a55873de03c9050143c2996d6d28a11b0c2726d1.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/camelcase-css/package.json
   detection_source: node_modules/camelcase-css/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -502,6 +540,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/11593/no-img.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/caniuse-lite/package.json
   detection_source: node_modules/caniuse-lite/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -514,6 +553,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/2504/1ca014a423414068bf3462747c3ef894.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/caniuse-lite/package.json
   detection_source: node_modules/caniuse-lite/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -526,6 +566,7 @@ tools:
   category: Data Stores
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@types/color-name/package.json
   detection_source: node_modules/@types/color-name/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -538,6 +579,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -549,6 +591,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Collaborative Text Editor
   image_url: https://img.stackshare.io/service/5372/ACE-Cloud9-EDITOR-Social-Media-icon.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/brace-expansion/package.json
   detection_source: node_modules/brace-expansion/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -575,6 +618,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/849/9esmqty2.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/acorn-node/package.json
   detection_source: node_modules/acorn-node/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -600,6 +644,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/305/KFgYaUkK.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/normalize-range/package.json
   detection_source: node_modules/normalize-range/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -611,6 +656,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/cssesc/package.json
   detection_source: node_modules/cssesc/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -623,6 +669,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -635,6 +682,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/5162/W11tHOU_.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/cssesc/package.json
   detection_source: node_modules/cssesc/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -647,6 +695,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/autoprefixer/package.json
   detection_source: node_modules/autoprefixer/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -660,6 +709,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package_manager/4009/default_2928dddce9b68e183e2cb320173ea0f72f1d612b.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/escape-string-regexp/package.json
   detection_source: node_modules/escape-string-regexp/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -671,6 +721,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes
   detection_source: Repo Metadata
 - name: Grunt
   description: The JavaScript Task Runner
@@ -693,6 +744,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/cssesc/package.json
   detection_source: node_modules/cssesc/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -704,6 +756,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/1945/mzh2bRes_400x400.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/normalize-range/package.json
   detection_source: node_modules/normalize-range/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -745,6 +798,7 @@ tools:
   category: Monitoring
   sub_category: Performance Monitoring
   image_url: https://img.stackshare.io/service/103/default_193410db3a7e419c7b436961bf41d733c7346b59.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/source-map/package.json
   detection_source: node_modules/source-map/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -756,6 +810,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/postcss-nested/package.json
   detection_source: node_modules/postcss-nested/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -769,6 +824,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Infrastructure Build Tools
   image_url: https://img.stackshare.io/service/967/packer.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/caniuse-lite/package.json
   detection_source: node_modules/caniuse-lite/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -794,6 +850,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/tailwindcss/package.json
   detection_source: node_modules/tailwindcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -820,6 +877,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/25589/default_4a6d6ac5f685e81da1aeeb4f9dfe938685fdf940.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/balanced-match/package.json
   detection_source: node_modules/balanced-match/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -831,6 +889,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/resolve/test/resolver/invalid_main/package.json
   detection_source: node_modules/resolve/test/resolver/invalid_main/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -843,6 +902,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/851/testling.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/balanced-match/package.json
   detection_source: node_modules/balanced-match/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -855,6 +915,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/acorn-node/.travis.yml
   detection_source: node_modules/acorn-node/.travis.yml
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -880,6 +941,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/postcss-functions/node_modules/postcss-value-parser/package.json
   detection_source: node_modules/postcss-functions/node_modules/postcss-value-parser/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -893,6 +955,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Git Tools
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -904,6 +967,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -915,6 +979,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Git Tools
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -927,6 +992,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/camelcase-css/package.json
   detection_source: node_modules/camelcase-css/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -938,6 +1004,7 @@ tools:
   category: Application Hosting
   sub_category: Mobile Backend
   image_url: https://img.stackshare.io/service/86/68wTsXcT.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -949,6 +1016,7 @@ tools:
   category: Communications
   sub_category: Voice AI
   image_url: https://img.stackshare.io/service/5871/Y32qxspu_200x200.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/source-map/package.json
   detection_source: node_modules/source-map/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -960,6 +1028,7 @@ tools:
   category: Analytics
   sub_category: Analytics Integrator
   image_url: https://img.stackshare.io/service/10405/kT1J-VLK_400x400.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/inflight/package.json
   detection_source: node_modules/inflight/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -971,6 +1040,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Social Media Tools
   image_url: https://img.stackshare.io/service/825/hnc3q-7x.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/resolve/test/resolver/nested_symlinks/mylib/package.json
   detection_source: node_modules/resolve/test/resolver/nested_symlinks/mylib/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -982,6 +1052,7 @@ tools:
   category: Analytics
   sub_category: Business Intelligence
   image_url: https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -993,6 +1064,7 @@ tools:
   category: Collaboration
   sub_category: Project Management
   image_url: https://img.stackshare.io/service/185/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1005,6 +1077,7 @@ tools:
   category: Collaboration
   sub_category: Team Inbox
   image_url: https://img.stackshare.io/service/1376/default_0b178a3feb8e05f5078bfe3fc1f5dd829df28a57.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/browserslist/package.json
   detection_source: node_modules/browserslist/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1016,6 +1089,7 @@ tools:
   category: Back Office
   sub_category: Email Services
   image_url: https://img.stackshare.io/service/3167/default_2d280843054d533c0a56c573c2e47e2cc1105a88.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1028,6 +1102,7 @@ tools:
   category: Payments
   sub_category: Payment Services
   image_url: https://img.stackshare.io/service/8491/jYzpfxho_400x400.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/p-limit/package.json
   detection_source: node_modules/p-limit/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1039,6 +1114,7 @@ tools:
   category: Collaboration
   sub_category: Time Tracking
   image_url: https://img.stackshare.io/service/11894/default_5bb2c0012a8c2666af5081e803e15952f675da0c.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/color-string/package.json
   detection_source: node_modules/color-string/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1050,6 +1126,7 @@ tools:
   category: Collaboration
   sub_category: Agile Project Management
   image_url: https://img.stackshare.io/service/1222/ibwB53uE.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/concat-map/package.json
   detection_source: node_modules/concat-map/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1062,6 +1139,7 @@ tools:
   category: Application Utilities
   sub_category: Activity Feeds as a Service
   image_url: https://img.stackshare.io/service/2213/mBSAJI_h_400x400.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/graceful-fs/package.json
   detection_source: node_modules/graceful-fs/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1074,6 +1152,7 @@ tools:
   category: Assets and Media
   sub_category: File Conversion
   image_url: https://img.stackshare.io/service/11914/typ.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1086,6 +1165,7 @@ tools:
   category: Mobile
   sub_category: Mobile UI Components
   image_url: https://img.stackshare.io/service/6006/amp.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/concat-map/package.json
   detection_source: node_modules/concat-map/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1097,6 +1177,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3649/default_01276c9c0c79674b16f9b29216bd8cc7ce9b894d.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/lodash.toarray/package.json
   detection_source: node_modules/lodash.toarray/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1108,6 +1189,7 @@ tools:
   category: Application Utilities
   sub_category: Load and Performance Testing
   image_url: https://img.stackshare.io/service/208/7Q-l-Hu-.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/lodash.toarray/package.json
   detection_source: node_modules/lodash.toarray/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1120,6 +1202,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/11991/bb.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/p-limit/package.json
   detection_source: node_modules/p-limit/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1129,6 +1212,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/730/FmOfEvH3.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/brace-expansion/package.json
   detection_source: node_modules/brace-expansion/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1138,6 +1222,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4987/pBeeJQDQ_normal.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/camelcase-css/package.json
   detection_source: node_modules/camelcase-css/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1149,6 +1234,7 @@ tools:
   category: Back Office
   sub_category: Web Browser
   image_url: https://img.stackshare.io/service/6670/chromium.org
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/browserslist/package.json
   detection_source: node_modules/browserslist/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1160,6 +1246,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/resolve/package.json
   detection_source: node_modules/resolve/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1170,6 +1257,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2492/Ie9kefsM_normal.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/fs-extra/package.json
   detection_source: node_modules/fs-extra/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1178,6 +1266,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4455/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1186,6 +1275,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2391/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1196,6 +1286,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/6473/331jv9hea1czuo3qghna_normal.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/autoprefixer/package.json
   detection_source: node_modules/autoprefixer/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1206,6 +1297,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/1546/7iT3i191.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/node-releases/package.json
   detection_source: node_modules/node-releases/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1217,6 +1309,7 @@ tools:
   category: Back Office
   sub_category: Web Browser
   image_url: https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/balanced-match/package.json
   detection_source: node_modules/balanced-match/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1226,6 +1319,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3795/Frame_Logo_Square.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/tailwindcss/package.json
   detection_source: node_modules/tailwindcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1239,6 +1333,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/xtend/package.json
   detection_source: node_modules/xtend/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1247,6 +1342,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2198/8018201.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/normalize-range/package.json
   detection_source: node_modules/normalize-range/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1258,6 +1354,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/cssesc/LICENSE-MIT.txt
   detection_source: node_modules/cssesc/LICENSE-MIT.txt
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1283,6 +1380,7 @@ tools:
   category: Application Utilities
   sub_category: Printing API
   image_url: https://img.stackshare.io/service/281/default_917b21004d74cbcfcbafcd50aac4d1f3fe3747d5.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/glob/package.json
   detection_source: node_modules/glob/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1307,6 +1405,7 @@ tools:
   category: Application Utilities
   sub_category: Code Automation Tools
   image_url: https://img.stackshare.io/service/3582/heckert_gnu.small.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/balanced-match/package.json
   detection_source: node_modules/balanced-match/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1319,6 +1418,7 @@ tools:
   category: Application Utilities
   sub_category: Mapping APIs
   image_url: https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1328,6 +1428,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10232/logo-500x300.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/balanced-match/package.json
   detection_source: node_modules/balanced-match/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1337,6 +1438,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/48679/default_dc1da84d01bbac1019b7a30c8949fd1c5a6b821d.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1349,6 +1451,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/ansi-styles/package.json
   detection_source: node_modules/ansi-styles/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1361,6 +1464,7 @@ tools:
   category: Mobile
   sub_category: Cross-Platform Mobile Tools
   image_url: https://img.stackshare.io/service/6422/react-navigation.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1373,6 +1477,7 @@ tools:
   category: Application Utilities
   sub_category: Data Transfer
   image_url: https://img.stackshare.io/service/10242/default_10e3fd58c910dc0c4241bc273a7235a0aa4197dd.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/inflight/package.json
   detection_source: node_modules/inflight/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1383,6 +1488,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/11077/0Zflj6Y__normal.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/ansi-styles/package.json
   detection_source: node_modules/ansi-styles/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1393,6 +1499,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3722/lejvzrnlpb308aftn31u_normal.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/acorn-node/package.json
   detection_source: node_modules/acorn-node/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1402,6 +1509,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/1246/q6gO7SqU.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1413,6 +1521,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Shell Utilities
   image_url: https://img.stackshare.io/service/101825/default_fee6db27033c9348cbd52a828bd0a3b0776c3ed1.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/graceful-fs/package.json
   detection_source: node_modules/graceful-fs/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1422,6 +1531,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2466/twitterdev_gear.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/postcss-selector-parser/package.json
   detection_source: node_modules/postcss-selector-parser/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1434,6 +1544,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Marketing Automation
   image_url: https://img.stackshare.io/service/6519/Y6VD3lCR_400x400.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/source-map/package.json
   detection_source: node_modules/source-map/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1446,6 +1557,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1455,6 +1567,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2634/quvIzEn2_normal.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/autoprefixer/package.json
   detection_source: node_modules/autoprefixer/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1463,6 +1576,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/6650/19343.jpeg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1472,6 +1586,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1483,6 +1598,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10991/RLwUWE7F_normal.jpg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/chalk/node_modules/color-name/package.json
   detection_source: node_modules/chalk/node_modules/color-name/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1491,6 +1607,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8085/15352388.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1499,6 +1616,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10933/1258054.jpeg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/fs-extra/package.json
   detection_source: node_modules/fs-extra/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1507,6 +1625,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1516,6 +1635,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/7514/jq.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/resolve/test/resolver/multirepo/package.json
   detection_source: node_modules/resolve/test/resolver/multirepo/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1524,6 +1644,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1532,6 +1653,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1541,6 +1663,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/7802/13189529.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1553,6 +1676,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/6883/repo-banner.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/browserslist/package.json
   detection_source: node_modules/browserslist/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1561,6 +1685,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3236/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1569,6 +1694,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4093/113781.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/glob/package.json
   detection_source: node_modules/glob/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1578,6 +1704,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4535/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1675,6 +1802,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1757,6 +1885,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1769,6 +1898,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18744/default_a0c218dcb961fccae1cb03e431692daad86f7866.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1795,6 +1925,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17564/default_99afdc7126f8a31ae778ef58d50c93ae3dd88880.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/browserslist/package.json
   detection_source: node_modules/browserslist/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1807,6 +1938,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18244/default_b102609c7a7fb86f3c2ca3ec026f3011d275978b.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/chalk/node_modules/has-flag/package.json
   detection_source: node_modules/chalk/node_modules/has-flag/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1819,6 +1951,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17591/default_3a2c894d178d46e5b78f3e41ac6b2ced48b414c8.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/chalk/node_modules/has-flag/package.json
   detection_source: node_modules/chalk/node_modules/has-flag/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1831,6 +1964,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/inflight/package.json
   detection_source: node_modules/inflight/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1885,6 +2019,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18125/image.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/browserslist/package.json
   detection_source: node_modules/browserslist/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -1981,6 +2116,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15993/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/tailwindcss/package.json
   detection_source: node_modules/tailwindcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2008,6 +2144,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16241/default_cbc604730ab04341982d806fe402cd0706cc8bf4.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2020,6 +2157,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18468/default_4e3195c551a49e7a4f12273dc00d9b1e5f37732b.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/acorn-node/package.json
   detection_source: node_modules/acorn-node/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2032,6 +2170,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16771/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2045,7 +2184,21 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@types/color-name/package.json
   detection_source: node_modules/@types/color-name/package.json
+  last_updated_by: Firstname Lastname
+  last_updated_on: 2022-02-04 20:32:03.000000000 Z
+- name: brace
+  description: Browserify compatible version of the ace editor
+  package_url: https://www.npmjs.com/brace
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17373/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/brace-expansion/package.json
+  detection_source: node_modules/brace-expansion/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
 - name: brace-expansion
@@ -2062,6 +2215,27 @@ tools:
   detection_source: node_modules/brace-expansion/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
+- name: browserslist
+  description: Share target browsers between different front-end tools
+  package_url: https://www.npmjs.com/browserslist
+  version: 4.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17198/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/package-lock.json
+  detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
+  last_updated_by: Firstname Lastname
+  last_updated_on: 2022-02-04 20:32:03.000000000 Z
+  vulnerabilities:
+  - name: Regular Expression Denial of Service in browserslist
+    cve_id: CVE-2021-23364
+    cve_url: https://github.com/advisories/GHSA-w8qv-6jwh-64r5
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.16.5
 - name: buble
   description: The blazing fast, batteries-included ES2015 compiler
   package_url: https://www.npmjs.com/buble
@@ -2099,6 +2273,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18731/default_896e971e78d35d9228342aa32100298402d2473b.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/is-arrayish/package.json
   detection_source: node_modules/is-arrayish/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2112,6 +2287,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16559/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/camelcase-css/package.json
   detection_source: node_modules/camelcase-css/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2127,6 +2303,20 @@ tools:
   image_url: https://img.stackshare.io/package/18015/default_1f8ed84269df051b7e91bcbcb5c88ac6f0d8720d.png
   detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/package-lock.json
   detection_source: node_modules/autoprefixer/package.json
+  last_updated_by: Firstname Lastname
+  last_updated_on: 2022-02-04 20:32:03.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/package-lock.json
+  detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
 - name: clean-css
@@ -2159,6 +2349,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17384/default_b39374c3a74b433364bfdbff07be26214bf186fd.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2171,6 +2362,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16398/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/graceful-fs/package.json
   detection_source: node_modules/graceful-fs/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2183,6 +2375,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16007/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2195,6 +2388,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16417/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/ansi-styles/package.json
   detection_source: node_modules/ansi-styles/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2263,6 +2457,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15908/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2289,6 +2484,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17998/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/commander/package.json
   detection_source: node_modules/commander/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2301,7 +2497,21 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16353/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/commander/package.json
   detection_source: node_modules/commander/package.json
+  last_updated_by: Firstname Lastname
+  last_updated_on: 2022-02-04 20:32:03.000000000 Z
+- name: copy
+  description: Copy files or directories using globs
+  package_url: https://www.npmjs.com/copy
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17538/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/fs-extra/package.json
+  detection_source: node_modules/fs-extra/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
 - name: covert
@@ -2341,6 +2551,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17017/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2353,6 +2564,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/normalize-range/package.json
   detection_source: node_modules/normalize-range/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2379,6 +2591,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2419,6 +2632,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16509/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/browserslist/package.json
   detection_source: node_modules/browserslist/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2487,6 +2701,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15872/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/commander/package.json
   detection_source: node_modules/commander/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2555,6 +2770,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16371/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2581,6 +2797,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/escape-string-regexp/package.json
   detection_source: node_modules/escape-string-regexp/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2593,6 +2810,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16161/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/is-arrayish/package.json
   detection_source: node_modules/is-arrayish/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2610,6 +2828,20 @@ tools:
   detection_source: node_modules/find-up/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
+- name: flow-bin
+  description: Binary wrapper for Flow - A static type checker for JavaScript
+  package_url: https://www.npmjs.com/flow-bin
+  version: 0.68.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15957/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
+  detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
+  last_updated_by: Firstname Lastname
+  last_updated_on: 2022-02-04 20:32:03.000000000 Z
 - name: fresh
   description: HTTP response freshness testing
   package_url: https://www.npmjs.com/fresh
@@ -2619,6 +2851,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18037/default_d8756eea8d13a271fb42437ffb36c0a116d72925.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2632,6 +2865,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16098/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2659,6 +2893,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16751/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2685,6 +2920,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16804/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2711,6 +2947,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18039/image.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2723,6 +2960,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18457/default_1ee30bb84bfc1558e9a2c7e21dfb728addee0444.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/defined/package.json
   detection_source: node_modules/defined/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2735,6 +2973,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17059/default_31b594d049ba66ce98c924544ccc4329a3f2d530.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2746,6 +2985,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16874/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2758,6 +2998,21 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17546/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
+  detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
+  last_updated_by: Firstname Lastname
+  last_updated_on: 2022-02-04 20:32:03.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/postcss-functions/node_modules/postcss-value-parser/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2770,6 +3025,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17326/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2782,6 +3038,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17744/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2794,6 +3051,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16937/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/universalify/package.json
   detection_source: node_modules/universalify/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2806,6 +3064,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16070/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/xtend/package.json
   detection_source: node_modules/xtend/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2833,6 +3092,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16594/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@types/color-name/package.json
   detection_source: node_modules/@types/color-name/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2845,6 +3105,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17838/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/resolve/package.json
   detection_source: node_modules/resolve/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2857,6 +3118,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16483/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2869,6 +3131,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17544/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2881,6 +3144,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18090/image.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/lodash.toarray/package.json
   detection_source: node_modules/lodash.toarray/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2893,7 +3157,22 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17359/default_2613a99266d0023b6108b16e4d6613c439a64039.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/reduce-css-calc/package.json
   detection_source: node_modules/reduce-css-calc/package.json
+  last_updated_by: Firstname Lastname
+  last_updated_on: 2022-02-04 20:32:03.000000000 Z
+- name: jscs
+  description: JavaScript Code Style
+  package_url: https://www.npmjs.com/jscs
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16176/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/normalize-range/package.json
+  detection_source: node_modules/normalize-range/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
 - name: jshint-stylish
@@ -2947,7 +3226,22 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16367/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/source-map/package.json
   detection_source: node_modules/source-map/package.json
+  last_updated_by: Firstname Lastname
+  last_updated_on: 2022-02-04 20:32:03.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 7.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/postcss-functions/node_modules/postcss-value-parser/package.json
+  detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
 - name: log
@@ -2959,6 +3253,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17960/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2971,6 +3266,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16534/default_2d1a470f86144a45b7e94185b9a5aecb5ebb69f4.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/xtend/package.json
   detection_source: node_modules/xtend/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -2983,6 +3279,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17145/default_0ffbf6d9ee2940fe94be8424fd9afff068fff458.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/fs-extra/package.json
   detection_source: node_modules/fs-extra/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3051,6 +3348,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18712/default_7ae3192ab02ed4c0f8eb62f145e160fed70e5ac8.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/normalize-range/package.json
   detection_source: node_modules/normalize-range/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3063,6 +3361,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16565/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/commander/package.json
   detection_source: node_modules/commander/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3075,6 +3374,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17889/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/fs-extra/package.json
   detection_source: node_modules/fs-extra/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3087,6 +3387,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16589/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/source-map/package.json
   detection_source: node_modules/source-map/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3099,6 +3400,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18745/default_a0c218dcb961fccae1cb03e431692daad86f7866.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/source-map/package.json
   detection_source: node_modules/source-map/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3111,6 +3413,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17983/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3137,6 +3440,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16247/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3149,6 +3453,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16105/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3175,6 +3480,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16235/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3215,6 +3521,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18695/default_ba22650903e999378ab35f8093d2d808f0a46039.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3241,6 +3548,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16245/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/universalify/package.json
   detection_source: node_modules/universalify/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3253,6 +3561,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16145/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/chalk/node_modules/has-flag/package.json
   detection_source: node_modules/chalk/node_modules/has-flag/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3265,6 +3574,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17784/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3291,6 +3601,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18387/default_443ead48d03f7b1fc57a05db4ff2c559c3e54f5e.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/ansi-styles/package.json
   detection_source: node_modules/ansi-styles/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3303,6 +3614,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16082/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/browserslist/package.json
   detection_source: node_modules/browserslist/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3400,6 +3712,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18398/default_f4061389234135da82c3938a911e52969aa2abae.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/pretty-hrtime/package.json
   detection_source: node_modules/pretty-hrtime/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3426,6 +3739,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17866/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3438,6 +3752,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16093/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/p-limit/package.json
   detection_source: node_modules/p-limit/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3465,6 +3780,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18190/default_b56a957d927d2e40d2c7cf9f3588b95c4df2c97c.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/acorn-node/package.json
   detection_source: node_modules/acorn-node/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3477,6 +3793,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16199/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/glob/package.json
   detection_source: node_modules/glob/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3489,6 +3806,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16813/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3501,6 +3819,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17342/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3513,6 +3832,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18418/default_4d27e57a415c059481cbe1fd0734523c261d311a.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/autoprefixer/package.json
   detection_source: node_modules/autoprefixer/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3525,6 +3845,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16890/default_143d92b1fc944107cf48a3ab42a2a347bf3d91b5.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/graceful-fs/package.json
   detection_source: node_modules/graceful-fs/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3587,7 +3908,21 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18127/image.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/graceful-fs/package.json
   detection_source: node_modules/graceful-fs/package.json
+  last_updated_by: Firstname Lastname
+  last_updated_on: 2022-02-04 20:32:03.000000000 Z
+- name: rework
+  description: Plugin framework for CSS preprocessing
+  package_url: https://www.npmjs.com/rework
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18344/default_184dcb86fb81ac8ceaaf92492886106219fc04d9.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
+  detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/postcss/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
 - name: rimraf
@@ -3703,6 +4038,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18455/default_d8e945bfec4c4a608fb0493abf73c9ec1cffc9a2.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3729,6 +4065,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18232/default_006273ebad013729e0798e0376579caca9efaa4e.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/caniuse-lite/package.json
   detection_source: node_modules/caniuse-lite/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3742,6 +4079,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16825/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3754,6 +4092,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18492/default_9c45ef918d27804fb2a0b2f31e341286bc3bc5d7.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/normalize-range/package.json
   detection_source: node_modules/normalize-range/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3780,6 +4119,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17937/default_40b5ae806e118a20c1717c75a46652a7358d8b42.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/xtend/package.json
   detection_source: node_modules/xtend/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3825,6 +4165,20 @@ tools:
   detection_source: node_modules/postcss-functions/node_modules/postcss-value-parser/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
+- name: tape
+  description: Tap-producing test harness for node and browsers
+  package_url: https://www.npmjs.com/tape
+  version: 4.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15856/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/acorn-node/package.json
+  detection_source: node_modules/acorn-node/package.json
+  last_updated_by: Firstname Lastname
+  last_updated_on: 2022-02-04 20:32:03.000000000 Z
 - name: tar
   description: Tar for node
   package_url: https://www.npmjs.com/tar
@@ -3834,6 +4188,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/browserslist/package.json
   detection_source: node_modules/browserslist/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3846,6 +4201,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16400/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3872,6 +4228,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18204/default_329699d382cad74e0d389300999bd267b9699d3f.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3884,6 +4241,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17029/default_8ef738cb63f629c8e87903029b82b45840ab75a3.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/fs-extra/package.json
   detection_source: node_modules/fs-extra/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3896,6 +4254,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18739/default_45da7a7c78da21b4de04db19cc949c3490185f5e.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3922,6 +4281,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18372/default_6da9f8de2035c7ad69ecf412df9fe80b73f9797a.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/postcss-selector-parser/package.json
   detection_source: node_modules/postcss-selector-parser/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3934,6 +4294,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18617/default_556cbbde03c4b61e43fa7de374efed6927510d08.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/postcss-selector-parser/package.json
   detection_source: node_modules/postcss-selector-parser/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3946,6 +4307,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16198/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/commander/package.json
   detection_source: node_modules/commander/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3958,6 +4320,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16462/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3970,6 +4333,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16507/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/bytes/package.json
   detection_source: node_modules/bytes/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3982,6 +4346,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17845/default_7e49ed9d84206a0a241a2a0e7e3f63b8f9585401.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/acorn-walk/package.json
   detection_source: node_modules/acorn-walk/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -3994,6 +4359,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18118/image.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/bytes/package.json
   detection_source: node_modules/bytes/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -4006,6 +4372,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16860/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/acorn-node/package.json
   detection_source: node_modules/acorn-node/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -4018,6 +4385,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16555/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -4030,6 +4398,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16280/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/node-emoji/package.json
   detection_source: node_modules/node-emoji/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -4043,7 +4412,22 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18762/default_b057657dca80f65f97b5bbe8ba405ffa92071739.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/fs-extra/package.json
   detection_source: node_modules/fs-extra/package.json
+  last_updated_by: Firstname Lastname
+  last_updated_on: 2022-02-04 20:32:03.000000000 Z
+- name: xo
+  description: JavaScript linter with great defaults
+  package_url: https://www.npmjs.com/xo
+  version: 0.20.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16016/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
+  detection_source: node_modules/@fullhuman/postcss-purgecss/node_modules/chalk/node_modules/supports-color/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
 - name: xyz
@@ -4055,6 +4439,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18558/default_b194e7abb8eea1cda9454a0cdbfe61a67834d183.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/node-releases/package.json
   detection_source: node_modules/node-releases/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
@@ -4067,6 +4452,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17899/default_3bc64391130859f94a137a7dc6cb87cd54da546b.png
+  detection_source_url: https://github.com/hicmtrex/Tailwind-Recipes/blob/main/node_modules/@types/color-name/package.json
   detection_source: node_modules/@types/color-name/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
