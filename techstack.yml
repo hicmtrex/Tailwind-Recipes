@@ -2,7 +2,7 @@ repo_name: hicmtrex/Tailwind-Recipes
 report_id: 065df9206449d37a33826eb6c6090916
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:19:10+00:00'
+timestamp: '2024-02-29T19:12:21+00:00'
 requested_by: invalid-email-address
 provider: github
 branch: main
@@ -207,7 +207,7 @@ tools:
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -378,7 +378,7 @@ tools:
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   open_source: true
   hosted_saas: false
@@ -829,7 +829,7 @@ tools:
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.4.4
   license: MIT
@@ -1009,7 +1009,7 @@ tools:
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-02-04 20:32:03.000000000 Z
 - name: Alexa
-  description: 'A cloud-based voice service '
+  description: A cloud-based voice service
   website_url: https://developer.amazon.com/alexa-skills-kit
   open_source: false
   hosted_saas: true
